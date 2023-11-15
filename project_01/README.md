@@ -1,11 +1,11 @@
 # Sunrise Alarm Clock
 
-All the code to run this program should be in the folder **sunrise_alarm_clock**. The code should be downloaded and implemented in the PocketBeagle Cloud9 program. 
+All the code to run this program should be in the folder `sunrise_alarm_clock`. The code should be downloaded and implemented in the PocketBeagle Cloud9 program. 
 
 ## Steps to Run 
-1. Configure the GPIO pins that the buttons and LED strip lights are connected to. Run **configure_pins_buttons.sh** and **configure_pins_led.sh.**
-2. Run **sudo ./run-opc-server** within the directory of sunrise_alarm_clock.
-3. Run **main_alarm.py.**
+1. Configure the GPIO pins that the buttons and LED strip lights are connected to. Run `configure_pins_buttons.sh` and `configure_pins_led.sh`.
+2. Run `sudo ./run-opc-server` within the directory of sunrise_alarm_clock.
+3. Run `main_alarm.py`.
 
 ## Explaining each python file 
 
