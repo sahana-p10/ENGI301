@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /var/lib/cloud9/ENGI301/python/sunrise_alarm_clock,
+
+./opc-server --config config.json

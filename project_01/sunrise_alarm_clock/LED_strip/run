@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /var/lib/cloud9/ENGI301/python/sunrise_alarm_clock
+
+./configure_pins.sh
+
+PYTHONPATH=/var/lib/cloud9/led_strip/ sudo python3 led_strip_test.py
